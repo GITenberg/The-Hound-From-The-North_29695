@@ -1,0 +1,35 @@
+_repo: The-Hound-From-The-North_29695
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cullum, Ridgwell
+    alias: Burghard, Sidney Groves
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '5545'
+    url: http://www.gutenberg.org/2009/agents/5545
+description: Novel set in Alaska and Manitoba at the turn of the century.
+gutenberg_issued: '2009-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29695'
+  lccn: '04023720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Hound From The North
+url: http://www.gutenberg.org/ebooks/29695
